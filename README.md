@@ -57,4 +57,12 @@ Trained using custom annotated data (Label Studio)
 
 Classes: Toolbox, Fire Extinguisher, Oxygen Tank
 
+```
+🧠 About the Model
+YOLOv8 (Ultralytics)
+
+Trained using custom annotated data (Label Studio)
+
+Classes: Toolbox, Fire Extinguisher, Oxygen Tank
+
 
